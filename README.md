@@ -1,5 +1,5 @@
 # linkedinclone
 
-![link](img/ss.png)
+![link](img/linkedin.png)
 
 Live Demo:
